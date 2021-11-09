@@ -12,7 +12,7 @@ This notebook will compare various data balancing techniques with powerful boost
 
 
 Content
-1. Imports and reading dataset | 2
+1. Imports and reading dataset
 2. Exploratory Data Analysis
 3. Dealing with unbalanced dataset
 - Without balancing
